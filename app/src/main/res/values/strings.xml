@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Arunachalam Information</string>
+
+    <!-- Image Description -->
+    <string name="paris_eiffel_tower_desc">Arunachalam, Path of Moksha</string>
+
+    <!-- About Paris -->
+    <string name="about_paris">Arunachalam is a sacred hill revered as a form of Lord Shiva.
+It stands as a symbol of divine fire, knowledge, and liberation.
+Devotees believe circumambulating the hill brings spiritual grace.
+The place radiates silence, peace, and inner awakening.
+Arunachalam is not just a mountain, but a path to self-realization 🙏</string>
+
+    <!-- Key Facts -->
+    <string name="key_facts">Location: Tiruvannamalai, Tamil Nadu, India
+Built by: Expanded by Chola, Pandya, Hoysala, and Vijayanagara dynasties
+Dedicated to: Lord Shiva (Arunachaleswarar)
+Construction period: Around 9th century onward (with later expansions)
+Material used: Stone and granite
+UNESCO status: Not a UNESCO World Heritage Site
+Famous for: One of the Pancha Bhoota temples (Fire element) and Girivalam
+Visitors: Millions of devotees every year, especially during Karthigai Deepam 🔥🙏</string>
+
+    <!-- Links -->
+    <string name="official_website">Official Arunachaleswarar Temple Website: https://www.arunachaleswarar.tnhrce.in/</string>
+    <string name="wikipedia_link">Wikipedia: https://en.wikipedia.org/wiki/Arunachaleswarar_Temple</string>
+    <string name="tourism_link">Tourism Information: https://www.tamilnadutourism.tn.gov.in/destinations/tiruvannamalai</string>
+
+</resources>
